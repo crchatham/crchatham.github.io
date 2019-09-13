@@ -1,4 +1,20 @@
-h1 {
-  color:blue;
-  text-align:center; 
-  }
+h1{	
+	color: purple;
+	text-align: center;
+}
+
+#contact{
+	text-align: center;
+	color: blue;
+}
+
+.skills{
+	font-size: 120%;
+	border: 1px solid black;
+	text-align: center;
+	background-color: orange;
+}
+
+.experience important em{
+	color:pink;
+	
